@@ -1,0 +1,11 @@
+.App {
+  color: #000;
+}
+
+.jumbotron {
+  height: 70px;
+  padding: 30px !important;
+  padding-top: 15px !important;
+  margin-top: 16px;
+}
+
